@@ -89,8 +89,6 @@ Some of the projects showcased in this portfolio include:
 ---
 
 ## 📈 Future Improvements
-
-- Dark Mode
 - Admin Dashboard
 - Database Integration
 - Project Filtering
