@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-A responsive personal portfolio website built using **Node.js**, **Express.js**, and **Express Handlebars** to showcase my projects, technical skills, resume, and contact information. This Webpage contains all my information including Education , Projects And Many More.
+A responsive personal portfolio website built using **Node.js**, **Express.js**, and **Express Handlebars** to showcase my projects, technical skills, resume, and contact information.
 
 ## 🚀 Live Demo
 
